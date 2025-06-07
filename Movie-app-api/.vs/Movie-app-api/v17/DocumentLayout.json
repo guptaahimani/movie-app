@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Movie-app-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BC9AD8-B8E6-4431-89B6-DA2D7E7B1792}|Movie-app-api\\Movie-app-api.csproj|d:\\c#\\movie-app-api\\movie-app-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6BC9AD8-B8E6-4431-89B6-DA2D7E7B1792}|Movie-app-api\\Movie-app-api.csproj|solutionrelative:movie-app-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BC9AD8-B8E6-4431-89B6-DA2D7E7B1792}|Movie-app-api\\Movie-app-api.csproj|d:\\c#\\movie-app-api\\movie-app-api\\migrations\\20250607114349_addedidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BC9AD8-B8E6-4431-89B6-DA2D7E7B1792}|Movie-app-api\\Movie-app-api.csproj|solutionrelative:movie-app-api\\migrations\\20250607114349_addedidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BC9AD8-B8E6-4431-89B6-DA2D7E7B1792}|Movie-app-api\\Movie-app-api.csproj|d:\\c#\\movie-app-api\\movie-app-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BC9AD8-B8E6-4431-89B6-DA2D7E7B1792}|Movie-app-api\\Movie-app-api.csproj|solutionrelative:movie-app-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BC9AD8-B8E6-4431-89B6-DA2D7E7B1792}|Movie-app-api\\Movie-app-api.csproj|d:\\c#\\movie-app-api\\movie-app-api\\dbcontext\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BC9AD8-B8E6-4431-89B6-DA2D7E7B1792}|Movie-app-api\\Movie-app-api.csproj|solutionrelative:movie-app-api\\dbcontext\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BC9AD8-B8E6-4431-89B6-DA2D7E7B1792}|Movie-app-api\\Movie-app-api.csproj|d:\\c#\\movie-app-api\\movie-app-api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BC9AD8-B8E6-4431-89B6-DA2D7E7B1792}|Movie-app-api\\Movie-app-api.csproj|solutionrelative:movie-app-api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BC9AD8-B8E6-4431-89B6-DA2D7E7B1792}|Movie-app-api\\Movie-app-api.csproj|d:\\c#\\movie-app-api\\movie-app-api\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BC9AD8-B8E6-4431-89B6-DA2D7E7B1792}|Movie-app-api\\Movie-app-api.csproj|solutionrelative:movie-app-api\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250607114349_AddedIdentity.cs",
+              "DocumentMoniker": "D:\\C#\\Movie-app-api\\Movie-app-api\\Migrations\\20250607114349_AddedIdentity.cs",
+              "RelativeDocumentMoniker": "Movie-app-api\\Migrations\\20250607114349_AddedIdentity.cs",
+              "ToolTip": "D:\\C#\\Movie-app-api\\Movie-app-api\\Migrations\\20250607114349_AddedIdentity.cs",
+              "RelativeToolTip": "Movie-app-api\\Migrations\\20250607114349_AddedIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:43:50.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\Movie-app-api\\Movie-app-api\\appsettings.json",
+              "RelativeDocumentMoniker": "Movie-app-api\\appsettings.json",
+              "ToolTip": "D:\\C#\\Movie-app-api\\Movie-app-api\\appsettings.json",
+              "RelativeToolTip": "Movie-app-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T11:40:36.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Movie-app-api\\Movie-app-api\\Program.cs",
+              "RelativeDocumentMoniker": "Movie-app-api\\Program.cs",
+              "ToolTip": "D:\\C#\\Movie-app-api\\Movie-app-api\\Program.cs",
+              "RelativeToolTip": "Movie-app-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:26:12.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "D:\\C#\\Movie-app-api\\Movie-app-api\\DbContext\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "Movie-app-api\\DbContext\\MovieDbContext.cs",
+              "ToolTip": "D:\\C#\\Movie-app-api\\Movie-app-api\\DbContext\\MovieDbContext.cs",
+              "RelativeToolTip": "Movie-app-api\\DbContext\\MovieDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:24:16.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\C#\\Movie-app-api\\Movie-app-api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Movie-app-api\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\C#\\Movie-app-api\\Movie-app-api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Movie-app-api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:16:38.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Movie-app-api\\Movie-app-api\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Movie-app-api\\Repository\\AccountRepository.cs",
+              "ToolTip": "D:\\C#\\Movie-app-api\\Movie-app-api\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "Movie-app-api\\Repository\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:08:41.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
